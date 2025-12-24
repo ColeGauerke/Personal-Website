@@ -1,2 +1,2 @@
-# personalWebsite
+# Personal Website
 React based personal website
